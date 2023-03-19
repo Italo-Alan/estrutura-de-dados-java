@@ -21,5 +21,6 @@ public class App {
         //O método remove o que estiver no índice passado como parâmetro
         System.out.println(listCarros.remove(3));
         System.out.println(listCarros);
+        //Opa
     }
 }
